@@ -30,13 +30,16 @@ Here are Some sample Outputs of my project
 - https://drive.google.com/file/d/1p7Lytah_vHbtQT39bzO4xjkb_xVLwboS/view?usp=drivesdk
 
 
-![welcome](https://user-images.githubusercontent.com/106270990/173722008-f27b583a-2e1c-49b0-84d9-abc6d92e6fa5.png)
+![welcom![new](https://user-images.githubusercontent.com/106270990/173730566-27634852-a9c9-4751-b619-e6d98be39e27.png)
 
 
 ![Login](https://user-images.githubusercontent.com/106270990/173722060-6834b6a6-e112-4f49-90eb-85ebf7f77108.png)
 
 
-![Doctor](https://user-images.githubusercontent.com/106270990/173722089-6590fb7a-74b3-4cd5-a528-b7962606d46b.png)
+![new](https://user-images.githubusercontent.com/106270990/173730688-0f4559db-aebf-40b1-aed0-56529308d871.png)
+
+
+![Doctor](h![new](https://user-images.githubusercontent.com/106270990/173730634-75e5291d-c6b2-4e1c-979a-625b7fb4bd2f.png)
 
 
 ![Doctor1](https://user-images.githubusercontent.com/106270990/173722109-0bf46f9b-c243-40b1-85b8-edd6bc9e38cc.png)
@@ -46,6 +49,12 @@ Here are Some sample Outputs of my project
 
 
 ![Patient1](https://user-images.githubusercontent.com/106270990/173722195-4c7990a0-eb59-45c9-9711-6f7906fd0828.png)
+
+
+![new2](https://user-images.githubusercontent.com/106270990/173730791-f6c28ff7-936e-4e52-bdcd-6b7855d6b4e7.png)
+
+
+![new1](https://user-images.githubusercontent.com/106270990/173730742-c1a3eacd-c0da-4e2b-8af8-5d05ee9af024.png)
 
 
 
